@@ -4,7 +4,7 @@
 <body>  
 <%  
 String name=request.getParameter("uname");  
-out.print("welcome "+name);  
+out.print("welcome "+name+ " !!!");  
 %>  
 </form>  
 </body>  
